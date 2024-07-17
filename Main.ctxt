@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Exts\ getExts()
+comment3.params=exts
+comment3.target=Exts\ getMainMenu(Exts)
+comment4.params=
+comment4.target=int\ getSelected1()
+comment5.params=
+comment5.target=int\ getSelected2()
+comment6.params=exts
+comment6.target=boolean\ setExts(Exts)
+numComments=7

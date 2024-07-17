@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Expense
+comment1.params=date\ amount
+comment1.target=Expense(java.util.Date,\ double)
+comment2.params=
+comment2.target=double\ getAmount()
+comment3.params=
+comment3.target=java.util.Date\ getDate()
+numComments=4

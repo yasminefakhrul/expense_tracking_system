@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=RinggitSaver
+comment1.params=description\ savingTarget\ start\ end
+comment1.target=RinggitSaver(java.lang.String,\ double,\ java.util.Date,\ java.util.Date)
+comment2.params=
+comment2.target=double\ getCurrentSaving()
+comment3.params=currentSaving
+comment3.target=void\ setCurrentSaving(double)
+comment4.params=
+comment4.target=double\ getSavingTarget()
+comment5.params=
+comment5.target=java.util.Date\ getEnd()
+comment6.params=
+comment6.target=java.util.Date\ getStart()
+comment7.params=
+comment7.target=java.lang.String\ getDescription()
+numComments=8

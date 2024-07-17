@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Exts
+comment1.params=
+comment1.target=double\ getDailyLimit()
+comment2.params=dailyLimit
+comment2.target=void\ setDailyLimit(double)
+comment3.params=
+comment3.target=double\ getMonthlyLimit()
+comment4.params=monthlyLimit
+comment4.target=void\ setMonthlyLimit(double)
+comment5.params=
+comment5.target=java.util.ArrayList\ getExpenses()
+comment6.params=
+comment6.target=RinggitSaver\ getRinggitSaver()
+comment7.params=ringgitSaver
+comment7.target=void\ setRinggitSaver(RinggitSaver)
+numComments=8
